@@ -1,0 +1,51 @@
+.masthead{
+    min-height: 60vh;
+    position: relative;
+
+}
+nav li{
+    display: inline;
+    margin: 30px;
+    color: white;
+    background-color: black;
+    border:3px solid black;
+    margin-bottom: 15px;
+}
+h1 {
+    border:30px solid black;
+    margin-bottom:15px;
+    display: flex;
+    text-align: center;
+    color: white;
+
+}
+
+
+.container{
+    border: 1px solid black;
+    margin-bottom: 15px;
+    
+}
+.container2{
+    border: 1px solid black;
+    margin-bottom: 15px;
+
+}
+.container3{
+    border: 1px solid black;
+
+}
+.container4{
+    border:1px solid black;
+
+}
+.container5{
+    border:1px solid black;
+}
+
+.container2h{
+    text-align: center;
+    width: 200px;
+
+    
+}
